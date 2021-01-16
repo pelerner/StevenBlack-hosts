@@ -615,6 +615,33 @@
 # [adligature.com]
 127.0.0.1 cdn.adligature.com
 
+# [adlightning.com]
+127.0.0.1 arkadium-tagan.adlightning.com
+127.0.0.1 brainly-tagan.adlightning.com
+127.0.0.1 buzzfeed-tagan.adlightning.com
+127.0.0.1 carambola-tagan.adlightning.com
+127.0.0.1 enthusiastgaming-tagan.adlightning.com
+127.0.0.1 freestar-tagan.adlightning.com
+127.0.0.1 gumgum-tagan.adlightning.com
+127.0.0.1 leeenterprises-tagan.adlightning.com
+127.0.0.1 livingly-tagan.adlightning.com
+127.0.0.1 math-aids-signup-tagan.adlightning.com
+127.0.0.1 math-aids-tagan.adlightning.com
+127.0.0.1 math-aids-teamsnap-tagan.adlightning.com
+127.0.0.1 math-aids-ten-tagan.adlightning.com
+127.0.0.1 nationalreview-tagan.adlightning.com
+127.0.0.1 patch-tagan.adlightning.com
+127.0.0.1 penske-tagan.adlightning.com
+127.0.0.1 realtor-tagan.adlightning.com
+127.0.0.1 sheknows-tagan.adlightning.com
+127.0.0.1 sinclair-tagan.adlightning.com
+127.0.0.1 slate-tagan.adlightning.com
+127.0.0.1 tagan.adlightning.com
+127.0.0.1 tegna-tagan.adlightning.com
+127.0.0.1 thisoldhouse-tagan.adlightning.com
+127.0.0.1 zam-tagan.adlightning.com
+127.0.0.1 zillow-tagan.adlightning.com
+
 # [adlooxtracking.com]
 127.0.0.1 am.adlooxtracking.com
 127.0.0.1 am01.adlooxtracking.com
@@ -2141,6 +2168,23 @@
 # [anvato.net]
 127.0.0.1 analytics.anvato.net
 127.0.0.1 rt.analytics.anvato.net
+127.0.0.1 apis.anvato.net
+127.0.0.1 access-prod.apis.anvato.net
+127.0.0.1 dcs-live.apis.anvato.net
+127.0.0.1 dcs-tgt.apis.anvato.net
+127.0.0.1 dcs-vod.apis.anvato.net
+127.0.0.1 drm.apis.anvato.net
+127.0.0.1 tkx.apis.anvato.net
+127.0.0.1 cdn.anvato.net
+127.0.0.1 dcs-jite.cdn.anvato.net
+127.0.0.1 w3.cdn.anvato.net
+127.0.0.1 gcdn.anvato.net
+127.0.0.1 d2oj2jfp5qkm5dtc3gtiqjzaab.gcdn.anvato.net
+127.0.0.1 gpizacfw3gtfw4vmh5nc4uq6gc.gcdn.anvato.net
+127.0.0.1 jkvdxu3faz4qgr2j6w5qctdnde.gcdn.anvato.net
+127.0.0.1 nmvxdvra2muiv2amejorzkvqgg.gcdn.anvato.net
+127.0.0.1 tfa26fsjgzw475fipe42v4rhcf.gcdn.anvato.net
+127.0.0.1 xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
 
 # [any.do]
 127.0.0.1 analytics.any.do
@@ -4858,6 +4902,8 @@
 127.0.0.1 ssum-sec.casalemedia.com.edgekey.net
 127.0.0.1 convertexperiments.com.edgekey.net
 127.0.0.1 cdn-3.convertexperiments.com.edgekey.net
+127.0.0.1 cookiebot.com.edgekey.net
+127.0.0.1 consent.cookiebot.com.edgekey.net
 127.0.0.1 cxense.com.edgekey.net
 127.0.0.1 cdn.cxense.com.edgekey.net
 127.0.0.1 doubleverify.com.edgekey.net
@@ -4896,6 +4942,7 @@
 127.0.0.1 wildcard.outbrain.com.edgekey.net
 127.0.0.1 outbrainimg.com.edgekey.net
 127.0.0.1 wildcard.outbrainimg.com.edgekey.net
+127.0.0.1 qualtrics.com.edgekey.net
 127.0.0.1 rubiconproject.com.edgekey.net
 127.0.0.1 digicertwc.rubiconproject.com.edgekey.net
 127.0.0.1 eus.rubiconproject.com.edgekey.net
@@ -4939,6 +4986,7 @@
 127.0.0.1 push.io.edgekey.net
 127.0.0.1 san.push.io.edgekey.net
 127.0.0.1 moatpixel1.edgekey.net
+127.0.0.1 mobi.edgekey.net
 127.0.0.1 tracking.admarketplace.net.edgekey.net
 127.0.0.1 tag.aticdn.net.edgekey.net
 127.0.0.1 mobilepartner.avcdn.net.edgekey.net
@@ -4955,6 +5003,7 @@
 127.0.0.1 yieldlab.net.edgekey.net
 127.0.0.1 typekit.net-v3.edgekey.net
 127.0.0.1 p.typekit.net-v3.edgekey.net
+127.0.0.1 qualtrics.new.edgekey.net
 127.0.0.1 pubmatic.edgekey.net
 127.0.0.1 aktrack.pubmatic.edgekey.net
 127.0.0.1 secure-adnxs.edgekey.net
@@ -6427,6 +6476,9 @@
 # [intermarkets.net]
 127.0.0.1 intermarkets.net
 
+# [internetstores.com]
+127.0.0.1 cloud.internetstores.com
+
 # [intowow.com]
 127.0.0.1 intowow.com
 127.0.0.1 adcfg.intowow.com
@@ -6483,6 +6535,9 @@
 127.0.0.1 adserver.iprom.net
 
 # [ipromote.com]
+127.0.0.1 cdn.ipromote.com
+127.0.0.1 fra1.ipromote.com
+127.0.0.1 fra2.ipromote.com
 127.0.0.1 i.ipromote.com
 127.0.0.1 iad1.ipromote.com
 127.0.0.1 iad2.ipromote.com
@@ -6631,6 +6686,10 @@
 # [jorte.com]
 127.0.0.1 ad.jorte.com
 
+# [joyeggs.com]
+127.0.0.1 finlogs.joyeggs.com
+127.0.0.1 payback.joyeggs.com
+
 # [jpush.cn]
 127.0.0.1 im64.jpush.cn
 127.0.0.1 s.jpush.cn
@@ -6722,6 +6781,9 @@
 127.0.0.1 screencaptue-cdn.kampyle.com
 127.0.0.1 screencapture.kampyle.com
 127.0.0.1 udc-neb.kampyle.com
+
+# [kaotic.com]
+127.0.0.1 kaotic.com
 
 # [kargo.com]
 127.0.0.1 ad-monitor.kargo.com
@@ -8676,6 +8738,8 @@
 
 # [nicovideo.jp]
 127.0.0.1 ads.nicovideo.jp
+127.0.0.1 api.nicovideo.jp
+127.0.0.1 public.api.nicovideo.jp
 
 # [nielsen.com]
 127.0.0.1 awaf.answers.nielsen.com
@@ -8869,6 +8933,7 @@
 127.0.0.1 hulu.hb.omtrdc.net
 127.0.0.1 allstate.sc.omtrdc.net
 127.0.0.1 att.sc.omtrdc.net
+127.0.0.1 audible.sc.omtrdc.net
 127.0.0.1 dsg.sc.omtrdc.net
 127.0.0.1 allstate.tt.omtrdc.net
 127.0.0.1 audible.tt.omtrdc.net
@@ -9631,9 +9696,6 @@
 # [phonalytics.com]
 127.0.0.1 app.phonalytics.com
 
-# [phonepe.com]
-127.0.0.1 ads.phonepe.com
-
 # [phunware.com]
 127.0.0.1 phunware.com
 
@@ -9672,6 +9734,7 @@
 127.0.0.1 ct.pinterest.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 trk.pinterest.com
+127.0.0.1 widgets.pinterest.com
 
 # [pippio.com]
 127.0.0.1 pippio.com
@@ -10102,6 +10165,24 @@
 
 # [qservz.com]
 127.0.0.1 qservz.com
+
+# [qualtrics.com]
+127.0.0.1 au1.qualtrics.com
+127.0.0.1 az1.qualtrics.com
+127.0.0.1 boisestate.az1.qualtrics.com
+127.0.0.1 homedepot.az1.qualtrics.com
+127.0.0.1 ca1.qualtrics.com
+127.0.0.1 canadapostdigital.ca1.qualtrics.com
+127.0.0.1 co1.qualtrics.com
+127.0.0.1 eu.qualtrics.com
+127.0.0.1 fra1.qualtrics.com
+127.0.0.1 gov1.qualtrics.com
+127.0.0.1 iad1.qualtrics.com
+127.0.0.1 siteintercept.qualtrics.com
+127.0.0.1 gov1.siteintercept.qualtrics.com
+127.0.0.1 zn6fpq8uicqiph6sn-fdawebcx.gov1.siteintercept.qualtrics.com
+127.0.0.1 sjc1.qualtrics.com
+127.0.0.1 static-assets.qualtrics.com
 
 # [quantcount.com]
 127.0.0.1 quantcount.com
@@ -12861,6 +12942,9 @@
 127.0.0.1 vserv.mobi
 127.0.0.1 a.vserv.mobi
 127.0.0.1 rq.vserv.mobi
+
+# [vuforia.com]
+127.0.0.1 sdksync.prod.vuforia.com
 
 # [vungle.com]
 127.0.0.1 api.vungle.com
