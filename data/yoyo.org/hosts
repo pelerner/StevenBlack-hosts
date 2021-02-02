@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 11 Jan 2021 12:45:10 GMT
-# entries:        3561
+# last updated:   Wed, 27 Jan 2021 12:39:59 GMT
+# entries:        3571
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 17 Jan 2001 00:00:00
+# start date:    Mon, 05 Feb 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -96,6 +96,7 @@
 0.0.0.0 acuityplatform.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
+0.0.0.0 ad-cupid.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
@@ -136,7 +137,6 @@
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
-0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
@@ -221,6 +221,7 @@
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adaranth.com
+0.0.0.0 adbilty.me
 0.0.0.0 adblade.com
 0.0.0.0 adblade.org
 0.0.0.0 adblockanalytics.com
@@ -777,7 +778,6 @@
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
-0.0.0.0 ads8.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsatt.abc.starwave.com
 0.0.0.0 adsatt.abcnews.starwave.com
@@ -867,7 +867,9 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adsfactor.net
 0.0.0.0 adsfeed.brabys.com
+0.0.0.0 adshrink.it
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
 0.0.0.0 adskeeper.co.uk
@@ -1026,6 +1028,7 @@
 0.0.0.0 aistat.net
 0.0.0.0 ak0gsh40.com
 0.0.0.0 aktrack.pubmatic.com
+0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alert.com.mt
@@ -1109,6 +1112,7 @@
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 ato.mx
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attribution.report
 0.0.0.0 attributiontracker.com
@@ -1320,6 +1324,8 @@
 0.0.0.0 broadboundary.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
+0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btez8.xyz
 0.0.0.0 btrll.com
@@ -1457,6 +1463,7 @@
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 cmp.osano.com
 0.0.0.0 cmvrclicks000.com
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.spbland.ru
@@ -1472,7 +1479,6 @@
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
 0.0.0.0 compactbanner.com
@@ -1954,7 +1960,6 @@
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollandbusinessadvertising.nl
-0.0.0.0 hollps.win
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorablehall.com
@@ -2084,6 +2089,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
+0.0.0.0 jaizouji.com
 0.0.0.0 jauchuwa.net
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
@@ -2203,9 +2209,8 @@
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.videocampaign.co
 0.0.0.0 logger.snackly.co
-0.0.0.0 logs.datadoghq.com
-0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logsss.com
@@ -2508,7 +2513,6 @@
 0.0.0.0 openads.org
 0.0.0.0 openadsnetwork.com
 0.0.0.0 opentag-stats.qubit.com
-0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.cairo360.com
@@ -2737,7 +2741,6 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.scoota.co
 0.0.0.0 radar.cedexis.com
-0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 rads.alfamedia.pl
 0.0.0.0 rads.realadmin.pl
@@ -2868,6 +2871,8 @@
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
+0.0.0.0 rum-http-intake.logs.datadoghq.com
+0.0.0.0 rum-http-intake.logs.datadoghq.eu
 0.0.0.0 runads.com
 0.0.0.0 rundsp.com
 0.0.0.0 ruthlessrobin.com
@@ -3067,6 +3072,7 @@
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mirrorfootball.co.uk
+0.0.0.0 stats.nextgen-email.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rdphv.net
@@ -3160,6 +3166,7 @@
 0.0.0.0 tcads.net
 0.0.0.0 teads.tv
 0.0.0.0 tealeaf.com
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 techclicks.net
@@ -3249,6 +3256,7 @@
 0.0.0.0 track.hexcan.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.nuxues.com
+0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.tkbo.com
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
@@ -3347,6 +3355,7 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
 0.0.0.0 tvmtracker.com
+0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com
 0.0.0.0 typicalteeth.com
@@ -3420,6 +3429,7 @@
 0.0.0.0 visitpath.com
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
+0.0.0.0 vivads.net
 0.0.0.0 vivtracking.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
