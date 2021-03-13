@@ -52,6 +52,7 @@
 0.0.0.0 plus.addkt.com
 0.0.0.0 powerad.ai
 0.0.0.0 prebid-server-production.herokuapp.com
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 programmatic.doceree.com
 0.0.0.0 protected-by.clarium.io
 0.0.0.0 scripts.simpleanalyticscdn.com
@@ -364,3 +365,33 @@
 
 # prepaid.t-mobile.com
 0.0.0.0 lptag.liveperson.net
+
+# www.redbubble.com
+0.0.0.0 analytics-cdn.redbubble.com
+
+# geeknet.me
+0.0.0.0 stats.harbauer.org
+
+# amiunique.org
+0.0.0.0 analytics.amiunique.org
+
+# blockchair.com
+0.0.0.0 stats.blockchair.com
+
+# greenhost.net
+0.0.0.0 livestats.greenhost.nl
+
+# maproulette.org
+0.0.0.0 analytics.maproulette.org
+
+# alexei.pesic.dev
+0.0.0.0 cdn.panelbear.com
+
+# thisstartupdoesnotexist.com
+0.0.0.0 reports.teamemo-solutions.de
+
+# unsplash.com
+0.0.0.0 collector.unsplash.com
+
+# musescore.com
+0.0.0.0 track.musescore.com
