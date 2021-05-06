@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Apr 2021 14:46 UTC+7
-# Version: 2104061446
-# Blocked: 1,776 domains
+# Last modified: 03 May 2021 21:42 UTC+7
+# Version: 2105032142
+# Blocked: 1,796 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -17,10 +17,12 @@
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 media.adtimaserver.vn
 0.0.0.0 media.org.adtimaserver.vn
+0.0.0.0 staging.api.adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
 0.0.0.0 static2.adtimaserver.vn
 0.0.0.0 stream.adtimaserver.vn
 0.0.0.0 stream.org.adtimaserver.vn
+0.0.0.0 web.api.adtimaserver.vn
 #[eclick]
 0.0.0.0 admin.iad.eclick.vn
 0.0.0.0 analytics.eclick.vn
@@ -525,7 +527,6 @@
 0.0.0.0 za.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
-0.0.0.0 centralized.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.o2o.service.zaloapp.com
 0.0.0.0 photo-ads.zaloapp.com
@@ -768,16 +769,6 @@
 0.0.0.0 static.adsota.com
 0.0.0.0 track.adsota.com
 0.0.0.0 www.adsota.com
-#[masoffer.net]
-0.0.0.0 api.app.masoffer.net
-0.0.0.0 app.masoffer.net
-0.0.0.0 cdn.masoffer.net
-0.0.0.0 img.masoffer.net
-0.0.0.0 m.masoffer.net
-0.0.0.0 masoffer.net
-0.0.0.0 static.masoffer.net
-0.0.0.0 tr.masoffer.net
-0.0.0.0 www.masoffer.net
 #[autoads.asia]
 0.0.0.0 alpha2.autoads.asia
 0.0.0.0 alphaapi.autoads.asia
@@ -1475,6 +1466,11 @@
 0.0.0.0 oss.stats.vng.com.vn
 0.0.0.0 sso.stats.vng.com.vn
 0.0.0.0 stats.vng.com.vn
+#[tpmedia.online]
+0.0.0.0 cdn.tpmedia.online
+0.0.0.0 mvideo.tpmedia.online
+0.0.0.0 tpmedia.online
+0.0.0.0 www.tpmedia.online
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -1840,6 +1836,7 @@
 0.0.0.0 mysapo.net
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw
+0.0.0.0 production-tracking.riviu.co
 0.0.0.0 report.vnay.vn
 0.0.0.0 rsyslog.24h.com.vn
 0.0.0.0 s.baomoi.xdn.vn
@@ -1852,6 +1849,7 @@
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
+0.0.0.0 static.masoffer.net
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 statis.dsp.vn
 0.0.0.0 statistic.batdongsan.com.vn
@@ -1877,6 +1875,7 @@
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.kyna.vn
 0.0.0.0 track.lapa.pub
+0.0.0.0 track.pnj.com.vn
 0.0.0.0 track.pregmomvietnam.com
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.vio.edu.vn
@@ -1916,14 +1915,36 @@
 0.0.0.0 widget.kyna.vn
 0.0.0.0 zlog.zingmp3.vn
 # --- Block scamVN ---
+0.0.0.0 atspace.tv
 0.0.0.0 bloodleian.club
+0.0.0.0 bluvenie.com
+0.0.0.0 byonlym.com
+0.0.0.0 campxanh.info
 0.0.0.0 celerantatters.com
+0.0.0.0 cettiarl.com
+0.0.0.0 drakeesh.com
+0.0.0.0 facebookz.co
 0.0.0.0 hashearog.com
+0.0.0.0 irduwhojas.ga
+0.0.0.0 kaurroot.com
 0.0.0.0 larpollicwilli.club
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club
+0.0.0.0 tammenaa.com
 0.0.0.0 ucesreferre.club
+0.0.0.0 vongquaymienphi.net
+0.0.0.0 www.facebookz.co
+0.0.0.0 www.vongquaymienphi.net
+#[tricker.vn]
+0.0.0.0 fbcdn.tricker.vn
+0.0.0.0 free.tricker.vn
+0.0.0.0 gift.tricker.vn
+0.0.0.0 scontent.tricker.vn
+0.0.0.0 statics.tricker.vn
+0.0.0.0 tricker.vn
+0.0.0.0 vongquaymienphi.tricker.vn
+0.0.0.0 www.tricker.vn
 # --- Block popupVN ---
 0.0.0.0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes

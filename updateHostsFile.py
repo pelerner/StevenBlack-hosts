@@ -81,7 +81,7 @@ def get_defaults():
         "readmedata": {},
         "readmedatafilename": path_join_robust(BASEDIR_PATH, "readmeData.json"),
         "exclusionpattern": r"([a-zA-Z\d-]+\.){0,}",
-        "exclusionregexs": [],
+        "exclusionregexes": [],
         "exclusions": [],
         "commonexclusions": ["hulu.com"],
         "blacklistfile": path_join_robust(BASEDIR_PATH, "blacklist"),
@@ -243,7 +243,7 @@ def main():
     )
 
     auto = settings["auto"]
-    exclusion_regexes = settings["exclusionregexs"]
+    exclusion_regexes = settings["exclusionregexes"]
     source_data_filename = settings["sourcedatafilename"]
 
     update_sources = prompt_for_update(freshen=settings["freshen"], update_auto=auto)
@@ -571,7 +571,7 @@ def gather_custom_exclusions(exclusion_pattern, exclusion_regexes):
         domain_prompt = "Enter the domain you want to exclude (e.g. facebook.com): "
         user_domain = input(domain_prompt)
 
-        if is_valid_domain_format(user_domain):
+        if is_valid_user_provided_domain_format(user_domain):
             exclusion_regexes = exclude_domain(
                 user_domain, exclusion_pattern, exclusion_regexes
             )
@@ -941,6 +941,10 @@ def remove_dups_and_excl(merge_file, exclusion_regexes, output_file=None):
 
         stripped_rule = strip_rule(line)  # strip comments
         if not stripped_rule or matches_exclusions(stripped_rule, exclusion_regexes):
+            continue
+
+        # Issue #1628
+        if ("@" in stripped_rule):
             continue
 
         # Normalize rule
@@ -1612,7 +1616,7 @@ def query_yes_no(question, default="yes"):
     return reply == "yes"
 
 
-def is_valid_domain_format(domain):
+def is_valid_user_provided_domain_format(domain):
     """
     Check whether a provided domain is valid.
 
