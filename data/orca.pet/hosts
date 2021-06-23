@@ -3,7 +3,7 @@
 # Homepage: https://orca.pet/notonmyshift/
 # Licence: https://orca.pet/#license
 # Expires: 4h
-# Last update: 2021-05-04T12:21:25Z
+# Last update: 2021-06-17T11:20:42Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -61,11 +61,6 @@
 0.0.0.0 soflock.com
 0.0.0.0 www.soflock.com
 
-# 2020-08-06 Correos email phishing
-#  - https://www.rioforpartiers.com/Correos
-0.0.0.0 rioforpartiers.com
-0.0.0.0 www.rioforpartiers.com
-
 # 2020-08-06 Hacked website
 #  - https://litocen.com/wp-includes/js/exe/upxls.php
 0.0.0.0 litocen.com
@@ -83,38 +78,39 @@
 
 # 2020-09-15 Correos phishing
 #  - https://lora-lutsk.site/wp-admin/rap/USERS/3387fbecd8e99e0/index.php?view=login&appIdKey=79.108.139.220&country=ES
+#  - https://correosrastreos.com/
+#  - https://www.rioforpartiers.com/Correos
 0.0.0.0 lora-lutsk.site
 0.0.0.0 www.lora-lutsk.site
+0.0.0.0 correosrastreos.com
+0.0.0.0 www.correosrastreos.com
+0.0.0.0 rioforpartiers.com
+0.0.0.0 www.rioforpartiers.com
 
-# 2020-09-21 AEAT phishing
+# 2021-05-13 AEAT phishing
 #  - https://metalcarpenteriedalfovo.it/prova/index.php?web=bWVAcjJkMnJpZ28uZXM=
 #  - https://agenciatributaria.email/?web=bWVAcjJkMnJpZ28uZXM=
+#  - https://bluemarble-advt.com/mame//?hash=contacto
 0.0.0.0 metalcarpenteriedalfovo.it
 0.0.0.0 www.metalcarpenteriedalfovo.it
 0.0.0.0 agenciatributaria.email
 0.0.0.0 www.agenciatributaria.email
-
-# 2020-09-29 Correos phishing
-#  - https://correosrastreos.com/
-0.0.0.0 correosrastreos.com
-0.0.0.0 www.correosrastreos.com
-
-# 2020-09-29 EDF phishing
-#  - https://www.m-esage.com/fr/info.php?&_signin_id=a6ade3da9bc7b88efdc59f16e8994099
-0.0.0.0 m-esage.com
-0.0.0.0 www.m-esage.com
+0.0.0.0 bluemarble-advt.com
+0.0.0.0 www.bluemarble-advt.com
 
 # 2020-09-29 Santander phishing
 #  - https://www.s-banco.es/
 0.0.0.0 s-banco.es
 0.0.0.0 www.s-banco.es
 
-# 2020-12-03 Email phishing
+# 2021-05-26 Email phishing
 #  - https://mciegroup.ru/muhammadwalii2sep/login.html
 #  - https://seatwave.ru/nathy11aug/next.php
 #  - https://investfactapi.cloud/kiwj3anderson39kd/post.php
 #  - https://virtualbox.work/defdonwilly39jkfhkdhf/post.php
 #  - https://statesbox.monster/bk7azmy0xo4jandersonkg8k0acq9/post.php
+#  - https://mail-links3.info/?rts=cp&uid=
+#  - https://multiserval.es/wp-mail/app/
 0.0.0.0 mciegroup.ru
 0.0.0.0 www.mciegroup.ru
 0.0.0.0 seatwave.ru
@@ -125,6 +121,10 @@
 0.0.0.0 www.virtualbox.work
 0.0.0.0 statesbox.monster
 0.0.0.0 www.statesbox.monster
+0.0.0.0 mail-links3.info
+0.0.0.0 www.mail-links3.info
+0.0.0.0 multiserval.es
+0.0.0.0 www.multiserval.es
 
 # 2020-10-23 Ministerio de Trabajo phishing with trojan
 #  - http://www.ocmwr.com/stlinter?117840615_292336938732339_7623365132391156747_n.png
@@ -135,10 +135,6 @@
 #  - https://skylarstetten.com/pop
 0.0.0.0 skylarstetten.com
 0.0.0.0 www.skylarstetten.com
-
-# 2020-10-23 Correos phishing
-#  - http://oficinadecorreos.eastus.cloudapp.azure.com/
-0.0.0.0 oficinadecorreos.eastus.cloudapp.azure.com
 
 # 2020-10-24 Amazon phishing and BTC bullshit
 #  - http://365abcd.net/r.php?t=c&d=47763&l=8299&c=60356
@@ -159,10 +155,20 @@
 0.0.0.0 pandemic-reliefnygov.net
 0.0.0.0 www.pandemic-reliefnygov.net
 
-# 2020-11-05 CaixaBank phishing
+# 2021-06-13 CaixaBank phishing
 #  - http://stammtisch-design.de/ONQ70ZV4HHONQ70ZV4HHONQ70ZV4HH.html
+#  - https://business.caixaessigne.com/nqbgdh/nqbcolq/?kfukf
+#  - http://wtm.infos-lifestyle.fr/redirection.html?m=2f2de1c2f8ab4abc52a69c6cd6e91cd2&c=fr&u=https://additainment.de/app&dc=
+0.0.0.0 business.caixaessigne.com
+0.0.0.0 wtm.infos-lifestyle.fr
 0.0.0.0 stammtisch-design.de
 0.0.0.0 www.stammtisch-design.de
+0.0.0.0 caixaessigne.com
+0.0.0.0 www.caixaessigne.com
+0.0.0.0 infos-lifestyle.fr
+0.0.0.0 www.infos-lifestyle.fr
+0.0.0.0 caixabankapp.digital
+0.0.0.0 www.caixabankapp.digital
 
 # 2021-03-03 Amazon phishing
 #  - http://findout.eu.com
@@ -203,16 +209,22 @@
 0.0.0.0 thienlongcnc.com
 0.0.0.0 www.thienlongcnc.com
 
-# 2020-11-22 PayPal phishing
+# 2021-06-15 PayPal phishing
 #  - http://mysupply.beforese.com/
 #  - https://deringanbangnada.tevkhkoztp.com/?sign
-#  - http://resolution-centre-id1212.com/?p=4
+#  - http://resolution-centre-id1212.com/?p=4ç
+#  - http://ssp-click.i-mobile.co.jp/click.ashx?dspid=4&asid=153852&dspadvid=cieliacom_1810191439186604605&ru=https://summarylimitedaccspypl.com/r/bHt8OKc
+#  - https://summarylimitedaccspypl.com/r/bHt8OKc
+0.0.0.0 ssp-click.i-mobile.co.jp
 0.0.0.0 mysupply.beforese.com
 0.0.0.0 tevkhkoztp.com
 0.0.0.0 www.tevkhkoztp.com
 0.0.0.0 supporttech-pay-com.preview-domain.com
 0.0.0.0 resolution-centre-id1212.com
 0.0.0.0 www.resolution-centre-id1212.com
+0.0.0.0 ssp-click.i-mobile.co.jp
+0.0.0.0 summarylimitedaccspypl.com
+0.0.0.0 www.summarylimitedaccspypl.com
 
 # 2021-01-02 Amazon phishing
 #  - http://akepolsa.hiabaik.alexwasiwo.com/FPWKZUPZUT
@@ -733,6 +745,12 @@
 0.0.0.0 gruppoemotion.net
 0.0.0.0 www.gruppoemotion.net
 
+# 2021-06-05 Fake snail mail parcel website
+#  - https://sysitemff.customeronline.top/fr/ips/
+0.0.0.0 sysitemff.customeronline.top
+0.0.0.0 customeronline.top
+0.0.0.0 www.customeronline.top
+
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
 
@@ -952,6 +970,13 @@
 0.0.0.0 www.dropmuskx.ir
 0.0.0.0 tweetelonmusk.ir
 0.0.0.0 www.tweetelonmusk.ir
+
+# === MALWARE ===
+# Domains used as C&C or hosting malware
+
+# 2020-05-31 Malware browser plugin
+0.0.0.0 vssl-on.com
+0.0.0.0 www.vssl-on.com
 
 # === ADVERTISEMENTS ===
 # These entries block good old advertisements, which are annoying but pose no threat
@@ -3358,6 +3383,20 @@
 0.0.0.0 bnmjjwinf292.com
 0.0.0.0 www.bnmjjwinf292.com
 
+# 2021-05-13 Ads serving malware
+0.0.0.0 centomor.xyz
+0.0.0.0 www.centomor.xyz
+0.0.0.0 downloadsfreefile.com
+0.0.0.0 www.downloadsfreefile.com
+0.0.0.0 faizabeauty.xyz
+0.0.0.0 www.faizabeauty.xyz
+0.0.0.0 fusenz.xyz
+0.0.0.0 www.fusenz.xyz
+0.0.0.0 ps2bios.net
+0.0.0.0 www.ps2bios.net
+0.0.0.0 thirstycrow.xyz
+0.0.0.0 www.thirstycrow.xyz
+
 # === MAIL BEACONS ===
 # These entries block beacons on mail which companies use to check if bulk email/spam is read for obvious privacy reasons
 
@@ -3374,7 +3413,7 @@
 0.0.0.0 xiti.com
 0.0.0.0 www.xiti.com
 
-# 2020-05-30 El Corte InglÃ©s mail beacon
+# 2020-05-30 El Corte Inglés mail beacon
 0.0.0.0 tracker.elcorteingles.es
 
 # 2020-06-01 Uber mail beacon
