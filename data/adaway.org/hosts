@@ -371,6 +371,7 @@
 127.0.0.1 androidads21.adcolony.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 androidads4-3.adcolony.com
+127.0.0.1 androidads4-5.adcolony.com
 127.0.0.1 c4d-cdn.adcolony.com
 127.0.0.1 c4dm.adcolony.com
 127.0.0.1 cpa.adcolony.com
@@ -3448,9 +3449,6 @@
 127.0.0.1 vz-cdn.contentabc.com
 127.0.0.1 vz-cdn2.contentabc.com
 
-# [contentful.com]
-127.0.0.1 graphql.contentful.com
-
 # [contentsquare.net]
 127.0.0.1 contentsquare.net
 127.0.0.1 t.contentsquare.net
@@ -5234,9 +5232,6 @@
 
 # [hbi-ingest.net]
 127.0.0.1 hbi-ingest.net
-
-# [healthgrades.com]
-127.0.0.1 www.healthgrades.com
 
 # [heapanalytics.com]
 127.0.0.1 cdn.heapanalytics.com
@@ -8344,6 +8339,7 @@
 
 # [pangle.io]
 127.0.0.1 pangle.io
+127.0.0.1 api16-access-gcp.pangle.io
 127.0.0.1 api16-access-sg.pangle.io
 
 # [panickycurtain.com]
@@ -9099,9 +9095,6 @@
 127.0.0.1 media.revcontent.com
 127.0.0.1 publishers.revcontent.com
 127.0.0.1 trends.revcontent.com
-
-# [revenuecat.com]
-127.0.0.1 api.revenuecat.com
 
 # [revjet.com]
 127.0.0.1 ads.revjet.com
@@ -11721,6 +11714,9 @@
 
 # [wigetmedia.com]
 127.0.0.1 wigetmedia.com
+
+# [wikawika.xyz]
+127.0.0.1 ad-display.wikawika.xyz
 
 # [wildlifestudios.com]
 127.0.0.1 cads.wildlifestudios.com
