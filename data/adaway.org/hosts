@@ -1332,9 +1332,6 @@
 # [adztec.com]
 127.0.0.1 adztec.com
 
-# [aep-email.com]
-127.0.0.1 click.aep-email.com
-
 # [aerserv.com]
 127.0.0.1 aerserv.com
 127.0.0.1 ads.aerserv.com
@@ -3269,9 +3266,6 @@
 # [cootlogix.com]
 127.0.0.1 openrtb.cootlogix.com
 127.0.0.1 prebid.cootlogix.com
-
-# [coralogix.com]
-127.0.0.1 api.coralogix.com
 
 # [cordial.com]
 127.0.0.1 events-stream-svc.usw2.cordial.com
