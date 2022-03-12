@@ -2701,10 +2701,6 @@
 127.0.0.1 events.browsiprod.com
 127.0.0.1 yield-manager.browsiprod.com
 
-# [bskarn.com]
-127.0.0.1 cdn.bskarn.com
-127.0.0.1 loc.bskarn.com
-
 # [btloader.com]
 127.0.0.1 btloader.com
 
@@ -9861,9 +9857,6 @@
 
 # [techcrunch.com]
 127.0.0.1 ampmetrics.techcrunch.com
-
-# [techlab-cdn.com]
-127.0.0.1 p11.techlab-cdn.com
 
 # [technoratimedia.com]
 127.0.0.1 ad-cdn.technoratimedia.com
